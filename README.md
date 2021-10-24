@@ -1,7 +1,7 @@
 -  Hi, I’m Subha Das @5ubh4d45
 -  I’m from India and currently pursuing BE in Electrical Engineering.
--  I'm trying to learn differnt game engines like Unity and Godot.
--  I participate in gamejams as a hobby. Check my games on [ixale.itch.io](itch page)
+-  I'm currently making games as a hobby and focusing more on gaining skills and experience. I mainly use Unity for making games. I do little bit of pixelart. You can check them    -  out [Instagram](instagram.com/ixalegames) | [twitter](twitter.com'ixalegames)
+-  I participate in gamejams as a hobby. Check my games on [itch page](ixale.itch.io)
 -  Have basic knowledge of Python and C#
 -  I'm just a newbie discovering new stuffs everyday.
 <!---
