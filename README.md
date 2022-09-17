@@ -4,3 +4,5 @@
 -  Check my games on [My Itch.io Page](https://ixalegames.itch.io)
 -  I do pixelart. You can check them out at: [Instagram](https://instagram.com/ixalegames) | [twitter](https://twitter.com/ixalegames)
 -  Connect with me on [Linkdin](https://www.linkedin.com/in/5ubh4d45/).
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=5ubh4d45&theme=dark&show_icons=true)
